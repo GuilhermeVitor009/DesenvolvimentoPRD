@@ -141,8 +141,7 @@ void setup()
 void loop()
 { 
   
-  /*
-    identifica();
+
    if(contZeragem == 0){
        Serial.println("\nZeragem do Robo:"); 
        zeragem();
@@ -179,7 +178,7 @@ void loop()
           }
           Serial.print("}");
         }
-       */
+       
   } 
 
 void zeragem(){
